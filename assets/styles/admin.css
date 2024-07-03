@@ -1,0 +1,18 @@
+.wpforms-request-invite-admin-form-holder .form-table input[type="number"],
+.wpforms-request-invite-admin-form-holder .form-table input[type="url"],
+.wpforms-request-invite-admin-form-holder .form-table select,
+.wpforms-request-invite-admin-form-holder .form-table input[type="text"] {
+  width: 100%;
+  max-width: 25%;
+}
+.wpforms-request-invite-admin-form-holder .form-table select option {
+  padding: 7px;
+  transition: all .3s ease-out;
+}
+.wpforms-request-invite-admin-form-holder .form-table select option:hover {
+  background: #f2f3f3;
+}
+
+.wpforms-request-invite-admin-form-holder .form-table #wp-wpforms_secure_invite_warning_message_content-wrap {
+  width: 75%;
+}
