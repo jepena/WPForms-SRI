@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WPForms - Secure Request Invite
  * Plugin URI: https://jepena.github.io/
- * Description: Enhance your site's security with WPForms Secure Invite Registration. This plugin ensures only invited users can register by sending unique, time-limited URLs via email. Perfect for exclusive memberships or private access.
+ * Description: WPForms Secure Request Invite can help you improve the security of your website. This plugin ensures that only users who have requested an invite can register, with unique, time-limited URLs sent via email. Ideal for exclusive memberships and private access.
  * Author: Jacinto Pena
  * Author URI: https://jepena.github.io/
  * Version: 1.0.2
