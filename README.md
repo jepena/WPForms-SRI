@@ -1,4 +1,4 @@
-#WPForms Secure Registration Invites
+#WPForms Secure Request Invites
 
 Version: 1.0.2
 
